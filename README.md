@@ -7,7 +7,11 @@ A repo for practicing your git skills as an incoming MS student at the DSI
 
 **Name:** Cheng Ding
 
+Harrison Rubin
+
 **Hobbies:** Pickleball, Music
+
+Baseball, Hockey, Traveling, Comedy
 
 ## Section 1: Your First Commit
 
