@@ -36,7 +36,7 @@ Partner B: use Partner A's repo
 3. Each person: create your own branch to make the following edits
    - Partner B: Add your name and hobbies to the README (LINES 8 and 10) on your clone of Partner A's repo.
    - Partner A: Add your hobbies to the README (LINE 10) on your local repo.
-4. Each person: Commit and push changes
+4. Each person: Commit and push changes a;lskdjf;aldksjfl;ksajf
 5. Create a pull request for your branch and assign your partner.
    
 Partner A reviews Partner B’s PR, merges, deletes branch, and closes the PR.
