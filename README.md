@@ -7,7 +7,7 @@ A repo for practicing your git skills as an incoming MS student at the DSI
 
 **Name:** Cheng Ding
 
-**Hobbies:** Pickleball, Music
+**Hobbies:** Pickleball, Music, Games
 
 ## Section 1: Your First Commit
 
